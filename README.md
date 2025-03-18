@@ -7,7 +7,7 @@ Soy diseñadora UX/UI con un perfil polivalente y 8 años de experiencia en **di
 Mi objetivo es crear **experiencias funcionales, placenteras y accesibles** para todas las personas, buscando siempre la intersección entre lo estético y lo intuitivo.
 
 ### Lenguajes 📖
-> HTML5 | > CSS3 | > JavaScript | > Vue 
+[!HTML] HTML5 | CSS3 | JavaScript | Vue 
 
 ### Softwares y herramientas 💻
 Pack Adobe |  Figma | VS Code | WordPress | Prestashop
