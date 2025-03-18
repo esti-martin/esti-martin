@@ -7,7 +7,7 @@ Soy diseñadora UX/UI con un perfil polivalente y 8 años de experiencia en **di
 Mi objetivo es crear **experiencias funcionales, placenteras y accesibles** para todas las personas, buscando siempre la intersección entre lo estético y lo intuitivo.
 
 ### Lenguajes 📖
-[!HTML] HTML5 | CSS3 | JavaScript | Vue 
+HTML5 | CSS3 | JavaScript | Vue 
 
 ### Softwares y herramientas 💻
 Pack Adobe |  Figma | VS Code | WordPress | Prestashop
@@ -19,3 +19,16 @@ Pack Adobe |  Figma | VS Code | WordPress | Prestashop
 - 👯 Busco mi primera oportunidad laboral en UX/UI y Front-end.
 - 💬 Aporto 8 años de experiencia en diseño gráfico y marketing digital
 - 📫 Echa un vistazo a mi [LinkedIn](https://www.linkedin.com/in/emartinborja/) y [Portfolio](www.emartinborja.myportfolio.com/)
+
+### Últimos repositoirios
+
+<table>
+  <tr>
+    <td><img src="ruta/a/imagen1.jpg" width="200"/></td>
+    <td><img src="ruta/a/imagen2.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="ruta/a/imagen3.jpg" width="200"/></td>
+    <td><img src="ruta/a/imagen4.jpg" width="200"/></td>
+  </tr>
+</table>
