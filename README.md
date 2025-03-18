@@ -24,11 +24,11 @@ Pack Adobe |  Figma | VS Code | WordPress | Prestashop
 
 <table>
   <tr>
-    <td><img src="ruta/a/imagen1.jpg" width="200"/></td>
-    <td><img src="ruta/a/imagen2.jpg" width="200"/></td>
+    <td><a href="https://esti-martin.github.io/front-act02-cv-responsive-main/" target="_blank"><img src="https://cdn.pixabay.com/photo/2021/02/02/12/22/cv-5973796_960_720.png" width="200"/></td>
+    <td><a href="https://esti-martin.github.io/pf5_04_act01_landingpage/" target="_blank"><img src="https://cdn.pixabay.com/photo/2019/01/20/22/53/trumpet-3944938_960_720.jpg" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="ruta/a/imagen3.jpg" width="200"/></td>
-    <td><img src="ruta/a/imagen4.jpg" width="200"/></td>
+    <td><a href="https://ejemplo1.com" target="_blank"><img src="[https://cdn.pixabay.com/photo/2023/10/31/23/52/generated-to-8356214_960_720.png" width="200"/></td>
+    <td><a href="https://ejemplo1.com" target="_blank"><img src="[https://cdn.pixabay.com/photo/2023/10/31/23/52/generated-to-8356214_960_720.png" width="200"/></td>
   </tr>
 </table>
