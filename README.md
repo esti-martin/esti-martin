@@ -28,7 +28,7 @@ Pack Adobe |  Figma | VS Code | WordPress | Prestashop
     <td><a href="https://github.com/esti-martin/pf5_04_act01_landingpage" target="_blank"><img src="https://cdn.pixabay.com/photo/2019/01/20/22/53/trumpet-3944938_960_720.jpg" width="200"/></td>
   </tr>
   <tr>
-    <td><a href=" " target="_blank"><img src="https://cdn.pixabay.com/photo/2023/10/31/23/52/generated-to-8356214_960_720.png" width="200"/></td>
-    <td><a href=" " target="_blank"><img src="https://cdn.pixabay.com/photo/2023/10/31/23/52/generated-to-8356214_960_720.png" width="200"/></td>
+    <td><a href=" " target="_blank"><img src="https://cdn.pixabay.com/photo/2024/04/24/14/19/work-from-home-8717863_960_720.jpg" width="200"/></td>
+    <td><a href=" " target="_blank"><img src="https://cdn.pixabay.com/photo/2024/04/24/14/19/work-from-home-8717863_960_720.jpg" width="200"/></td>
   </tr>
 </table>
