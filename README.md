@@ -1,10 +1,12 @@
-## ¡Hola! 👋 Soy Esti  
+<h1><b>¡Hola! Soy Esti </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### Diseñadora UX/UI y Front-end
+## Diseñadora UX/UI y Front-end
 
-Desde que descubrí el mundo de la experiencia de usuario y la accesibilidad, procuro que todos mis diseños estén **centrados en las personas**, sean cuales sean sus condiciones y vivencias. 
+Desde que descubrí el mundo de la **experiencia de usuario** y la **accesibilidad**, procuro que todos mis diseños estén **centrados en las personas**, sean cuales sean sus condiciones y vivencias. 
 
 Con 8 años de experiencia en **diseño gráfico** y **marketing digital** he ayudado a **mejorar la estrategia digital** de varias empresas. He trabajado con CMSs como WordPress y Prestashop, utilizando HTML y CSS para optimizar su rendimiento y diseño. Además, he creado diversos materiales online y offline con Illustrator, maquetado catálogos y manuales con Indesign, creado contenido en vídeo, fotografías y escrito para las redes sociales y he planificado campañas de email marketing. 
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRhYmozN3hua3Vmam40YXpndnhpaGJtM3hraWFjcWZ2a2xwMThmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
 
 Actualmente, estoy ampliando mis conocimientos en desarrollo web **front-end** (HTML, CSS, Javascript, Git, React...), lo que me permite entender mejor al departamento de desarrollo y planificar mis diseños de forma más realista. Aunque utilizo la IA en mi día a día, me encanta el código limpio y semático que los humanos puedan entender.
 
@@ -22,7 +24,11 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ### Softwares y herramientas 💻
-Pack Adobe |  Figma | VS Code | WordPress | Prestashop
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%2300B4B6.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
+![PrestaShop](https://img.shields.io/badge/PrestaShop-FF6600?style=for-the-badge&logo=prestashop&logoColor=white)&nbsp;
+
 
 ### Más sobre mi
 
