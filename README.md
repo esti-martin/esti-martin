@@ -2,12 +2,24 @@
 
 ### Diseñadora UX/UI y Front-end
 
-Soy diseñadora UX/UI con un perfil polivalente y 8 años de experiencia en **diseño gráfico** y **marketing digital** y 5 años en **mantenimiento web con Wordpress y Prestashop**. Desde mis comienzos en departamentos de marketing he creado **soluciones visuales y comunicaciones** efectivas y atractivas que se adaptan a los objetivos marcados por la empresa y al público al que se dirigen. Gracias a mi pasión por el aprendizaje continuo, me he formado en diversas áreas (UX/UI, HTML, CSS, fotografía, edición de video) y actualmente amplío mis conocimientos en diseño web, metodologías ágiles y habilidades colaborativas para ofrecer un enfoque completo a cada proyecto.
+Desde que descubrí el mundo de la experiencia de usuario y la accesibilidad, procuro que todos mis diseños estén **centrados en las personas**, sean cuales sean sus condiciones y vivencias. 
 
-Mi objetivo es crear **experiencias funcionales, placenteras y accesibles** para todas las personas, buscando siempre la intersección entre lo estético y lo intuitivo.
+Con 8 años de experiencia en **diseño gráfico** y **marketing digital** he ayudado a **mejorar la estrategia digital** de varias empresas. He trabajado con CMSs como WordPress y Prestashop, utilizando HTML y CSS para optimizar su rendimiento y diseño. Además, he creado diversos materiales online y offline con Illustrator, maquetado catálogos y manuales con Indesign, creado contenido en vídeo, fotografías y escrito para las redes sociales y he planificado campañas de email marketing. 
+
+Actualmente, estoy ampliando mis conocimientos en desarrollo web **front-end** (HTML, CSS, Javascript, Git, React...), lo que me permite entender mejor al departamento de desarrollo y planificar mis diseños de forma más realista. Aunque utilizo la IA en mi día a día, me encanta el código limpio y semático que los humanos puedan entender.
+
+A pesar de estar dando mis primeros pasos en el mundo del UX/UI y el front-end, mi trayectoria profesional me ha dado una visión holística de lo que es un producto digital, abarcando diseño, negocio y desarrollo.
+
+Si buscas una diseñadora comprometida, versátil y en constante evolución, me encantaría que hablásemos.
 
 ### Lenguajes 📖
-HTML5 | CSS3 | JavaScript | React 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+### Control de versiones
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ### Softwares y herramientas 💻
 Pack Adobe |  Figma | VS Code | WordPress | Prestashop
