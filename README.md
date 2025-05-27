@@ -50,3 +50,19 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
     <td><a href="https://github.com/esti-martin/front-act06-cartelera" target="_blank"><img src="https://cdn.pixabay.com/photo/2025/02/08/08/17/ai-generated-9391672_960_720.jpg" width="200"/></td>
   </tr>
 </table>
+
+<div max-width:400px;">
+  <img src="https://cdn.pixabay.com/photo/2021/02/02/12/22/cv-5973796_960_720.png" alt="Descripción de la imagen" width="200"/>
+  <h3>Título del Proyecto</h3>
+  <p><strong>Fecha:</strong> Mayo 2025</p>
+  <p>Breve descripción del proyecto en una o dos líneas. Explica el propósito, tecnología principal o impacto del proyecto.</p>
+</div>
+
+---
+
+<div max-width:400px;">
+  <img src="https://cdn.pixabay.com/photo/2021/02/02/12/22/cv-5973796_960_720.png" alt="Descripción de la imagen" width="200"/>
+  <h3>Título del Proyecto</h3>
+  <p><strong>Fecha:</strong> Mayo 2025</p>
+  <p>Breve descripción del proyecto en una o dos líneas. Explica el propósito, tecnología principal o impacto del proyecto.</p>
+</div>
