@@ -12,24 +12,24 @@ Actualmente, estoy ampliando mis conocimientos en desarrollo web **front-end** (
 
 A pesar de estar dando mis primeros pasos en el mundo del UX/UI y el front-end, mi trayectoria profesional me ha dado una visión holística de lo que es un producto digital, abarcando diseño, negocio y desarrollo.
 
-Si buscas una diseñadora comprometida, versátil y en constante evolución, me encantaría que hablásemos.
+Si buscas una diseñadora comprometida, versátil y en constante evolución, me encantaría que hablásemos.<br><br><br>
 
 ## Lenguajes 📖
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;<br><br><br>
 
 
 ## Control de versiones
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;<br><br><br>
 
 
 ## Softwares y herramientas 💻
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%2300B4B6.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-![PrestaShop](https://img.shields.io/badge/PrestaShop-FF6600?style=for-the-badge&logo=prestashop&logoColor=white)&nbsp;
+![PrestaShop](https://img.shields.io/badge/PrestaShop-FF6600?style=for-the-badge&logo=prestashop&logoColor=white)&nbsp;<br><br><br>
 
 
 ## Más sobre mi
@@ -38,8 +38,7 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
 - 🔭 En junio terminaré la carrera de Diseño Digital después de 4 años compaginando trabajo y estudio.
 - 👯 Busco mi primera oportunidad laboral en UX/UI y Front-end.
 - 💬 Aporto 8 años de experiencia en diseño gráfico y marketing digital
-- 📫 Echa un vistazo a mi [LinkedIn](https://www.linkedin.com/in/emartinborja/) y [Portfolio](www.emartinborja.myportfolio.com/)
-- 
+- 📫 Echa un vistazo a mi [LinkedIn](https://www.linkedin.com/in/emartinborja/) y [Portfolio](www.emartinborja.myportfolio.com/)<br><br><br>
 
 ## Últimos repositorios
 
