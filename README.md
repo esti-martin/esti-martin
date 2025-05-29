@@ -44,6 +44,15 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
 
 ## Últimos repositorios
 
+<div max-width:400px;">
+  <img src="https://images.unsplash.com/vector-1746615617247-7f144775373d?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Descripción de la imagen" width="100"/>
+  <h3>Cartelera de películas en React</h3>
+  <p><strong>Fecha:</strong> Mayo 2025</p>
+  <p>Trabajo colaborativo de diseño y desarrollo de una página de cartelera de películas, utilizando una API, Auth0, React y Typescript.</p>
+  <a href="https://github.com/esti-martin/Cartelera-react" target="_blank">Ver proyecto</a>
+</div>
+
+---
 
 <div max-width:400px;">
   <img src="https://cdn.pixabay.com/photo/2025/02/08/08/17/ai-generated-9391672_960_720.jpg" alt="Descripción de la imagen" width="100"/>
@@ -56,7 +65,7 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
 ---
 
 <div max-width:400px;">
-  <img src="https://cdn.pixabay.com/photo/2022/03/25/01/44/online-shop-7090116_960_720.png" alt="Descripción de la imagen" width="100"/>
+  <img src="https://cdn.pixabay.com/photo/2022/03/25/01/44/online-shop-7090116_960_720.png" alt="Tienda online" width="100"/>
   <h3>La Rulla. Zapatería online</h3>
   <p><strong>Fecha:</strong> Marzo 2025</p>
   <p>Trabajo colaborativo de diseño y desarrollo donde se pedía un escaparate de productos con carrito utilizando HTML, CSS y JavaScript.</p>
