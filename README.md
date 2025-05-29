@@ -42,22 +42,13 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
 
 ## Últimos repositorios
 
-<div max-width:400px;">
-  <img src="https://cdn.pixabay.com/photo/2021/02/02/12/22/cv-5973796_960_720.png" alt="CV" width="100"/>
-  <h3>Curriculum responsive</h3>
-  <p><strong>Fecha:</strong> Febrero 2025</p>
-  <p>Mediante HTML y CSS y siguiendo un diseño dado, realicé mi CV en formato web responsivo.</p>
-  <a href="https://github.com/esti-martin/front-act02-cv-responsive-main" target="_blank">Ver proyecto</a>
-</div>
-
----
 
 <div max-width:400px;">
-  <img src="https://cdn.pixabay.com/photo/2019/01/20/22/53/trumpet-3944938_960_720.jpg" alt="Trombones" width="100"/>
-  <h3>Web Trombones</h3>
-  <p><strong>Fecha:</strong> Marzo 2025</p>
-  <p>Con HTML y CSS y siguiendo un diseño dado, se ha realizado una página web responsive.</p>
-  <a href="https://github.com/esti-martin/pf5_04_act01_landingpage" target="_blank">Ver proyecto</a>
+  <img src="https://cdn.pixabay.com/photo/2025/02/08/08/17/ai-generated-9391672_960_720.jpg" alt="Descripción de la imagen" width="100"/>
+  <h3>Cartelera de películas</h3>
+  <p><strong>Fecha:</strong> Abril 2025</p>
+  <p>Trabajo colaborativo de diseño y desarrollo de una página de cartelera de películas, utilizando una API, HTML, CSS y JavaScript.</p>
+  <a href="https://github.com/esti-martin/front-act06-cartelera" target="_blank">Ver proyecto</a>
 </div>
 
 ---
@@ -73,9 +64,19 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
 ---
 
 <div max-width:400px;">
-  <img src="https://cdn.pixabay.com/photo/2025/02/08/08/17/ai-generated-9391672_960_720.jpg" alt="Descripción de la imagen" width="100"/>
-  <h3>Cartelera de películas</h3>
-  <p><strong>Fecha:</strong> Abril 2025</p>
-  <p>Trabajo colaborativo de diseño y desarrollo de una página de cartelera de películas, utilizando una API, HTML, CSS y JavaScript.</p>
-  <a href="https://github.com/esti-martin/front-act06-cartelera" target="_blank">Ver proyecto</a>
+  <img src="https://cdn.pixabay.com/photo/2019/01/20/22/53/trumpet-3944938_960_720.jpg" alt="Trombones" width="100"/>
+  <h3>Web Trombones</h3>
+  <p><strong>Fecha:</strong> Marzo 2025</p>
+  <p>Con HTML y CSS y siguiendo un diseño dado, se ha realizado una página web responsive.</p>
+  <a href="https://github.com/esti-martin/pf5_04_act01_landingpage" target="_blank">Ver proyecto</a>
+</div>
+
+---
+
+<div max-width:400px;">
+  <img src="https://cdn.pixabay.com/photo/2021/02/02/12/22/cv-5973796_960_720.png" alt="CV" width="100"/>
+  <h3>Curriculum responsive</h3>
+  <p><strong>Fecha:</strong> Febrero 2025</p>
+  <p>Mediante HTML y CSS y siguiendo un diseño dado, realicé mi CV en formato web responsivo.</p>
+  <a href="https://github.com/esti-martin/front-act02-cv-responsive-main" target="_blank">Ver proyecto</a>
 </div>
