@@ -2,6 +2,9 @@
 
 ## Diseñadora UX/UI y Front-end
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emartinborja/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-40E0D0?style=for-the-badge&logo=aboutdotme&logoColor=black&color=E0FFFF)](https://www.emartinborja.myportfolio.com/)
+
 Desde que descubrí el mundo de la **experiencia de usuario** y la **accesibilidad**, procuro que todos mis diseños estén **centrados en las personas**, sean cuales sean sus condiciones y vivencias. 
 
 Con 8 años de experiencia en **diseño gráfico** y **marketing digital** he ayudado a **mejorar la estrategia digital** de varias empresas. He trabajado con CMSs como WordPress y Prestashop, utilizando HTML y CSS para optimizar su rendimiento y diseño. Además, he creado diversos materiales online y offline con Illustrator, maquetado catálogos y manuales con Indesign, creado contenido en vídeo, fotografías y escrito para las redes sociales y he planificado campañas de email marketing. 
@@ -37,8 +40,7 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
 - 🌱 Actualmente, estudio Front-end en Factoria F5.
 - 🔭 En junio terminaré la carrera de Diseño Digital después de 4 años compaginando trabajo y estudio.
 - 👯 Busco mi primera oportunidad laboral en UX/UI y Front-end.
-- 💬 Aporto 8 años de experiencia en diseño gráfico y marketing digital
-- 📫 Echa un vistazo a mi [LinkedIn](https://www.linkedin.com/in/emartinborja/) y [Portfolio](www.emartinborja.myportfolio.com/)<br><br><br>
+- 💬 Aporto 8 años de experiencia en diseño gráfico y marketing digital<br><br><br>
 
 ## Últimos repositorios
 
