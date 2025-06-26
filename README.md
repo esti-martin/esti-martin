@@ -20,7 +20,8 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
 ## Lenguajes 📖
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;<br><br><br>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;<br><br><br>
 
 
 ## Control de versiones
@@ -45,7 +46,17 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
 ## Últimos repositorios
 
 <div max-width:400px;">
-  <img src="https://images.unsplash.com/vector-1746615617247-7f144775373d?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Descripción de la imagen" width="100"/>
+  <img src="https://cdn.pixabay.com/photo/2016/03/31/21/55/metro-1296729_960_720.png" alt="Descripción de la imagen" width="100"/>
+  <h3>CheckMyLift</h3>
+  <p><strong>Fecha:</strong> Actualmente</p>
+  <p>Proyecto personal de web que visualiza el estado de los ascensores y escaleras de Metro Bilbao. Desarrollada con React y Typescript, utilizando las API de Metro Bilbao.</p>
+  <a href="https://github.com/esti-martin/CheckMyLift" target="_blank">Ver proyecto</a>
+</div>
+
+---
+
+<div max-width:400px;">
+  <img src="https://images.unsplash.com/vector-1746615617247-7f144775373d?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="DIlustrsción de patatas, bebida y palomitas" width="100"/>
   <h3>Cartelera de películas en React</h3>
   <p><strong>Fecha:</strong> Mayo 2025</p>
   <p>Trabajo colaborativo de diseño y desarrollo de una página de cartelera de películas, utilizando una API, Auth0, React y Typescript.</p>
@@ -55,7 +66,7 @@ Si buscas una diseñadora comprometida, versátil y en constante evolución, me 
 ---
 
 <div max-width:400px;">
-  <img src="https://cdn.pixabay.com/photo/2025/02/08/08/17/ai-generated-9391672_960_720.jpg" alt="Descripción de la imagen" width="100"/>
+  <img src="https://cdn.pixabay.com/photo/2025/02/08/08/17/ai-generated-9391672_960_720.jpg" alt="Iustración de gente en el cine" width="100"/>
   <h3>Cartelera de películas</h3>
   <p><strong>Fecha:</strong> Abril 2025</p>
   <p>Trabajo colaborativo de diseño y desarrollo de una página de cartelera de películas, utilizando una API, HTML, CSS y JavaScript.</p>
